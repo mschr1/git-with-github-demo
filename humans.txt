@@ -3,4 +3,4 @@
 # this is a demo of git pull command
 # this is a mac demo..2
 # SSH Communication based on password 20180604
-
+# wE ARE GOOD HUMANS	
