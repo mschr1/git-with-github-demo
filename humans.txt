@@ -4,3 +4,4 @@
 # this is a mac demo..2
 # SSH Communication based on password 20180604
 # wE ARE GOOD HUMANS	
+# we are testing fast forward merge
