@@ -6,3 +6,4 @@
 # wE ARE GOOD HUMANS	
 # we are testing fast forward merge
 # humans are a social being
+# working on 3 way merge
